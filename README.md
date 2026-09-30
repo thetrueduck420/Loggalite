@@ -12,14 +12,14 @@ The lack of other options makes loggalite so simple, that even your great great 
 ___
 ## Installation guide
 To install Loggalite, you must first clone the repository using the following command:\
-```git clone https://github.com/thetrueduck420/Loggalite.git```\
+`git clone https://github.com/thetrueduck420/Loggalite.git`\
 Then, change into the Loggalite directory\
 ```cd Loggalite```\
 Now, for the actual installation!\
 To install Loggalite, simply run the "install.sh" script like this:\
-```sudo ./install.sh```\
+`sudo ./install.sh`\
 Done! you have now successfully installed Loggalite, you may run it by running the following command:\
-```loggalite```
+`loggalite`
 ___
 ## User guide
 Loggalite has 2 main modes, "entry", and "reading"\
@@ -30,8 +30,10 @@ To enter this mode, open up loggalite (reffer to the installation guide in order
 Then, simply type "entry" into the interface!
 
 You will now be prompted to give your entry a title, this can be anything you want, like this:
-```OPTION[: entry
-TITLE[: Loggalite tutorial!```\```
+```
+OPTION[: entry
+TITLE[: Loggalite tutorial!
+```
 
 You can now start writing your entry, its that simple!\
 To save and close your entry, simply type "__END__" into the interface.\
@@ -40,12 +42,14 @@ Please note that typing "__END__" ANYWHERE in the entry, will save and close it!
 ### Reading mode:
 To enter this mode, open up loggalite again, and type "reading" into the interface\
 A menu simmilar to this should pop up:\
-```OPTION[: reading
+
+```
+OPTION[: reading
 ('2026-09-29_15:02:21', 'test')
 ('2026-09-29_15:25:16', 'Success!')
 ('2026-09-29_15:32:17', 'Success 2!')
-LOG-DATE[: ```
-
+LOG-DATE[:
+```
 You can now simply type in one of the dates (dates are shown on the left), and loggalite will automatically read it out in your terminal!
 
 ___
