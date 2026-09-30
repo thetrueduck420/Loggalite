@@ -1,5 +1,5 @@
 # Loggalite
----
+___
 Are YOU looking for a program that allows you to keep logs, like a diary?
 A program so simple that its not quite a text editor, but also not quite a blank terminal?
 Well look NO MORE!
@@ -10,7 +10,7 @@ It stores all your entries in a database file inside your home directory (~/.log
 Now, you may notice that loggalite has only 2 options: Entry, and Reading;
 At first, this may seem too simple, too tiny and stupid, but this design is intended!
 The lack of other options makes loggalite so simple, that even your great great grandma could write her cookie recipie in it!
----
+___
 ## Installation guide
 To install Loggalite, you must first clone the repository using the following command:
 `git clone https://github.com/thetrueduck420/Loggalite.git`
