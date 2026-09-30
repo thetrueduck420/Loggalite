@@ -31,7 +31,7 @@ Then, simply type "entry" into the interface!
 
 You will now be prompted to give your entry a title, this can be anything you want, like this:
 ```OPTION[: entry
-TITLE[: Loggalite tutorial!```\
+TITLE[: Loggalite tutorial!```\```
 
 You can now start writing your entry, its that simple!\
 To save and close your entry, simply type "__END__" into the interface.\
