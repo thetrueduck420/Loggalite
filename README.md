@@ -20,7 +20,7 @@ To install Loggalite, simply run the "install.sh" script like this:
 `sudo ./install.sh`
 Done! you have now successfully installed Loggalite, you may run it by running the following command:
 `loggalite`
----
+___
 ## User guide
 Loggalite has 2 main modes, "entry", and "reading"
 in this guide, I will explain how to use them!
@@ -49,7 +49,7 @@ LOG-DATE[:
 
 You can now simply type in one of the dates (dates are shown on the left), and loggalite will automatically read it out in your terminal!
 
----
+___
 That wasnt so hard, was it?
 This is my first "useful" program that ive ever released on github; i hope yall like it
 I made this to keep developement logs of my other projects, i didnt need a text editor for something that small, so i built this little thing in a few hours!
