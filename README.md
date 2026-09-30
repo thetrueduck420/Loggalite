@@ -12,14 +12,14 @@ The lack of other options makes loggalite so simple, that even your great great 
 ___
 ## Installation guide
 To install Loggalite, you must first clone the repository using the following command:
-`git clone https://github.com/thetrueduck420/Loggalite.git`
+```git clone https://github.com/thetrueduck420/Loggalite.git```
 Then, change into the Loggalite directory
-`cd Loggalite`
+```cd Loggalite```
 Now, for the actual installation!
 To install Loggalite, simply run the "install.sh" script like this:
-`sudo ./install.sh`
+```sudo ./install.sh```
 Done! you have now successfully installed Loggalite, you may run it by running the following command:
-`loggalite`
+```loggalite```
 ___
 ## User guide
 Loggalite has 2 main modes, "entry", and "reading"
