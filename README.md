@@ -1,14 +1,14 @@
 # Loggalite
 Are YOU looking for a program that allows you to keep logs, like a diary?\
 A program so simple that its not quite a text editor, but also not quite a blank terminal?\
-Well look NO MORE!\
+Well look NO MORE!
 
 Loggalite is a tiny dependency-free, AI free, Human-made personal journal written in Python3!\
-It stores all your entries in a database file inside your home directory (~/.loggalite/logs.db), so that you dont need a whole cluttered up directory of individual text files!\
+It stores all your entries in a database file inside your home directory (~/.loggalite/logs.db), so that you dont need a whole cluttered up directory of individual text files!
 
 Now, you may notice that loggalite has only 2 options: Entry, and Reading;\
 At first, this may seem too simple, too tiny and stupid, but this design is intended!\
-The lack of other options makes loggalite so simple, that even your great great grandma could write her cookie recipie in it!\
+The lack of other options makes loggalite so simple, that even your great great grandma could write her cookie recipie in it!
 ___
 ## Installation guide
 To install Loggalite, you must first clone the repository using the following command:\
@@ -19,17 +19,17 @@ Now, for the actual installation!\
 To install Loggalite, simply run the "install.sh" script like this:\
 ```sudo ./install.sh```\
 Done! you have now successfully installed Loggalite, you may run it by running the following command:\
-```loggalite```\
+```loggalite```
 ___
 ## User guide
 Loggalite has 2 main modes, "entry", and "reading"\
-in this guide, I will explain how to use them!\
+in this guide, I will explain how to use them!
 
 ### Entry mode:
 To enter this mode, open up loggalite (reffer to the installation guide in order to install, and run loggalite)\
-Then, simply type "entry" into the interface!\
+Then, simply type "entry" into the interface!
 
-You will now be prompted to give your entry a title, this can be anything you want, like this:\
+You will now be prompted to give your entry a title, this can be anything you want, like this:
 ```OPTION[: entry
 TITLE[: Loggalite tutorial!```\
 
@@ -44,10 +44,9 @@ A menu simmilar to this should pop up:\
 ('2026-09-29_15:02:21', 'test')
 ('2026-09-29_15:25:16', 'Success!')
 ('2026-09-29_15:32:17', 'Success 2!')
-LOG-DATE[: 
-```
+LOG-DATE[: ```
 
-You can now simply type in one of the dates (dates are shown on the left), and loggalite will automatically read it out in your terminal!\
+You can now simply type in one of the dates (dates are shown on the left), and loggalite will automatically read it out in your terminal!
 
 ___
 That wasnt so hard, was it?\
