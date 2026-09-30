@@ -41,7 +41,7 @@ Please note that typing "__END__" ANYWHERE in the entry, will save and close it!
 
 ### Reading mode:
 To enter this mode, open up loggalite again, and type "reading" into the interface\
-A menu simmilar to this should pop up:\
+A menu simillar to this should pop up:
 
 ```
 OPTION[: reading
