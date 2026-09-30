@@ -1,4 +1,4 @@
-# **Loggalite**
+# Loggalite
 ---
 Are YOU looking for a program that allows you to keep logs, like a diary?
 A program so simple that its not quite a text editor, but also not quite a blank terminal?
